@@ -6,7 +6,7 @@ I was the lead developer, the designer, and the company. I shipped this to the A
 
 Two things to get from this page: **the product**, and **the story**.
 
-[Case study](https://yoshirozay.github.io/speakez-ios/) · [App Store](https://apps.apple.com/ca/app/speakez/id1558577008) · [Kickstarter](https://www.kickstarter.com/projects/carsonosullivan/speakez-redefining-social-media) · 4.8 from 44 ratings · still listed
+[Case study](https://yoshirozay.github.io/social-media-app/) · [App Store](https://apps.apple.com/ca/app/speakez/id1558577008) · [Kickstarter](https://www.kickstarter.com/projects/carsonosullivan/speakez-redefining-social-media) · 4.8 from 44 ratings · still listed
 
 <p align="center">
   <img src="docs/assets/icon-1024.jpg" width="120" alt="speakEZ icon">
