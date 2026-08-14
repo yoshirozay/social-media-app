@@ -1,0 +1,80 @@
+[
+    {
+        "id" : 0,
+        "name" : "Matteo Del Brocco",
+        "message" : "This app is looking pretty cool my man",
+        "date" : "3:43pm",
+        "photo" : "del"
+    },
+    {
+        "id" : 1,
+        "name" : "Justin Bowman",
+        "message" : "No big deal",
+        "date" : "3:40pm",
+        "photo" : "jbo"
+    },
+    {
+        "id" : 2,
+        "name" : "Tom Ellison",
+        "message" : "LOL",
+        "date" : "2:32pm",
+        "photo" : "tom"
+        
+    },
+    {
+        "id" : 3,
+        "name" : "Chris Mackey",
+        "message" : "Rocket League?",
+        "date" : "2:10pm",
+        "photo" : "mackey"
+    },
+    {
+        "id" : 4,
+        "name" : "Nelkas Kwemo",
+        "message" : "travis scott - sky fall",
+        "date" : "1:58pm",
+        "photo" : "nelkas"
+    },
+    {
+        "id" : 5,
+        "name" : "Nicole Yurkevich",
+        "message" : "DOUBLE SHIFT! I just want to nap",
+        "date" : "1:10pm",
+        "photo" : "nicole"
+    },
+    {
+        "id" : 6,
+        "name" : "Nate Hobbs",
+        "message" : "lmao",
+        "date" : "12:42pm",
+        "photo" : "qb1"
+    },
+    {
+        "id" : 7,
+        "name" : "Tallulah Williams",
+        "message" : "bear-tristan!!!",
+        "date" : "12:27pm",
+        "photo" : "tallulah"
+    },
+    {
+        "id" : 8,
+        "name" : "Chris Osei-Kusi",
+        "message" : "monopoly?",
+        "date" : "12:19pm",
+        "photo" : "kusi"
+    },
+    {
+        "id" : 9,
+        "name" : "Trevor McGaridy",
+        "message" : "cold war or warzone?",
+        "date" : "11:40am",
+        "photo" : "trevor"
+    },
+    {
+        "id" : 10,
+        "name" : "Wes Mann",
+        "message" : "hahahaha okay man whatever you say",
+        "date" : "9:30am",
+        "photo" : "wes"
+    }
+]

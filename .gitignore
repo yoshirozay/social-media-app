@@ -1,0 +1,23 @@
+# secrets
+GoogleService-Info.plist
+**/GoogleService-Info.plist
+**/adminsdk.json
+**/*AuthKey*.p8
+**/*.p12
+**/*.mobileprovision
+.env
+.env.*
+credentials.json
+**/xcuserdata/
+*.xcuserstate
+
+# deps / build
+ios/Pods/
+ios/DerivedData/
+functions/functions/node_modules/
+.DS_Store
+
+# extra junk
+*.ipa
+*.dSYM
+.swiftpm/

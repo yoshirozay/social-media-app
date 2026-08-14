@@ -1,0 +1,74 @@
+# Uncomment the next line to define a global platform for your project
+
+
+target 'speakEZ (iOS)' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  platform :ios, '14.0'
+#   Pods for speakEZ (iOS)
+pod 'RealmSwift', '~>10.13.0'
+pod 'Firebase/Analytics'
+pod 'Firebase/Auth'
+pod 'Firebase/Crashlytics'
+pod 'Firebase/Firestore'
+pod 'Firebase/Functions'
+pod 'Firebase/Storage'
+pod 'Firebase/Messaging'
+pod 'Firebase/DynamicLinks'
+#pod 'FirebaseUI/Storage'
+pod 'FirebaseFirestoreSwift' , '~> 8.0-beta'
+pod 'Firebase/Core'
+pod 'SDWebImageSwiftUI' , '1.5.0'
+pod 'YPImagePicker', :git => 'https://github.com/ahmadnaeem908/YPImagePicker', :commit => 'd93ecaa102a7ee697ca4b7205dbd5beea2af9c15'
+pod 'CLImageEditor', :git => 'https://github.com/ahmadnaeem908/CLImageEditor', :commit => '43b59c1f28fe330f14274921c9c7ab08c7b5ee78'
+#https://github.com/yoshirozay/YPImagePicker will use this from next time we update this pod
+#https://github.com/yoshirozay/CLImageEditor will use this from next time we update this pod
+pod 'ActiveLabel'
+pod 'PanModal'
+pod 'Introspect'
+pod 'PromisesSwift'
+pod 'SDWebImage'
+pod 'Siren'
+pod 'Giphy'
+end
+
+
+target 'speakEZ (macOS)' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  platform :osx, '11.0'
+  # Pods for speakEZ (macOS)
+#pod 'RealmSwift', '~>10'
+#pod 'FirebaseCore', :git => 'https://github.com/firebase/firebase-ios-sdk.git', :branch => 'master'
+#pod 'FirebaseAuth'
+##pod 'FirebaseDatabase'
+#pod 'FirebaseStorage'
+#pod 'FirebaseFirestore', :git => 'https://github.com/firebase/firebase-ios-sdk.git', :branch => 'master'
+#pod 'Firebase/Functions'
+#pod 'Firebase/Crashlytics'
+#pod 'Firebase/Messaging'
+
+pod 'RealmSwift', '~>10.13.0'
+#pod 'Firebase/Analytics'
+pod 'Firebase/Auth'
+pod 'Firebase/Crashlytics'
+pod 'Firebase/Firestore'
+pod 'Firebase/Functions'
+pod 'Firebase/Storage'
+pod 'Firebase/Messaging'
+pod 'FirebaseFirestoreSwift' , '~> 8.0-beta'
+pod 'Firebase/Core'
+pod 'SDWebImageSwiftUI' , '1.5.0'
+#pod 'YPImagePicker', :git => 'https://github.com/ahmadnaeem908/YPImagePicker', :commit => 'd93ecaa102a7ee697ca4b7205dbd5beea2af9c15'
+#pod 'CLImageEditor', :git => 'https://github.com/ahmadnaeem908/CLImageEditor', :commit => '43b59c1f28fe330f14274921c9c7ab08c7b5ee78'
+#pod 'ActiveLabel'
+#pod 'PanModal'
+pod 'Introspect'
+pod 'PromisesSwift'
+ 
+#pod 'FirebaseDynamicLinks' #--platforms=ios
+pod 'SDWebImage'
+pod 'Realm'
+end
+
+ 

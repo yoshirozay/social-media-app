@@ -1,0 +1,103 @@
+ [
+  {
+    "id" : 0,
+    "name" : "Matteo Del Brocco",
+    "username" : "@delbrocco",
+    "description" : "Nickleback. That is all.",
+    "friends" : "yes",
+    "firstname" : "Matteo",
+    "photo" : "del"
+  },
+
+  {
+    "id" : 1,
+    "name" : "Justin Bowman",
+    "username" : "@jbowman",
+    "description" : " ",
+    "friends" : "yes",
+    "firstname" : "Justin",
+    "photo" : "jbo"
+  },
+  {
+      "id" : 2,
+      "name" : "Tom Ellison",
+      "username" : "@tom",
+      "description" : "exploding kittens",
+      "friends" : "yes",
+      "firstname" : "Tom",
+      "photo" : "tom"
+    
+  },
+  {
+    "id" : 3,
+    "name" : "Chris Mackey",
+    "username" : "@blackgrumps",
+    "description" : "It's your boy Chris",
+    "friends" : "yes",
+    "firstname" : "Chris",
+    "photo" : "mackey"
+  },
+  {
+    "id" : 4,
+    "name" : "Nelkas Kwemo",
+    "username" : "@kwemo",
+    "description" : "blessed by God",
+    "friends" : "yes",
+    "firstname" : "Nelkas",
+    "photo" : "nelkas"
+  },
+  {
+    "id" : 5,
+    "name" : "Nicole Yurkevich",
+    "username" : "@yorkie",
+    "description" : "work hard play hard",
+    "friends" : "yes",
+    "firstname" : "Nicole",
+    "photo" : "nicole"
+  },
+  {
+    "id" : 6,
+    "name" : "Nate Hobbs",
+    "username" : "@nobbs",
+    "description" : "spread the love",
+    "friends" : "yes",
+    "firstname" : "Nate",
+    "photo" : "qb1"
+  },
+  {
+    "id" : 7,
+    "name" : "Tallulah Williams",
+    "username" : "@tallulah",
+    "description" : "yes, like in cool runnings",
+    "friends" : "yes",
+    "firstname" : "Tallulah",
+    "photo" : "tallulah"
+  },
+  {
+      "id" : 8,
+      "name" : "Chris Osei-Kusi",
+      "username" : "@kusi",
+      "description" : "Switch Mentality",
+      "friends" : "yes",
+      "firstname" : "Chris",
+      "photo" : "kusi"
+  },
+  {
+    "id" : 9,
+    "name" : "Trevor McGaridy",
+    "username" : "@trev",
+    "description" : "got the sweetest feet in town",
+    "friends" : "yes",
+    "firstname" : "Trevor",
+    "photo" : "trevor"
+  },
+  {
+    "id" : 10,
+    "name" : "Wes Mann",
+    "username" : "@wesmann",
+    "description" : "tbolts20 forever",
+    "friends" : "yes",
+    "firstname" : "Wesley",
+    "photo" : "wes"
+  }
+]

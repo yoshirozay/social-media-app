@@ -1,0 +1,217 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /FriendRequests/{userId} {
+      allow read;
+      match /NewRequests/{userId} {
+      allow read;
+    }
+    }
+    match /UserInfo/{userId} {
+      allow read;
+       match /Settings/{userId} {
+      allow read;
+    }
+    }
+      match /Friends/{userId} {
+      allow read;
+    }
+     match /Users/{userId} {
+      allow read;
+    }
+    match /Chats/{userId} {
+      allow read;
+    }
+     match /ChatMessages/{userId} {
+      allow read;
+       match /ChatMessagess/{userId} {
+      allow read;
+    }
+    }
+     match /Posts/{userId} {
+      allow read;
+
+       match /UserPosts/{userId} {
+      allow read;
+      match /Comments/{userId} {
+      allow read;
+       match /Likes/{userId} {
+      allow read;
+       }
+       match /Screenshots/{userId} {
+      allow read;
+       }
+       match /Comments/{userId} {
+      allow read;
+      match /Likes/{userId} {
+      allow read;
+       }
+       }
+      }
+        match /IsTyping/{userId} {
+      allow read;
+       }
+      match /Likes/{userId} {
+      allow read; 
+      }
+    }
+    }
+     match /UserChats/{userId} {
+      allow read;
+       match /UserChatss/{userId} {
+      allow read;
+       match /IsTyping/{userId} {
+      allow read;
+    }
+    }
+    }
+    match /Messages/{userId} {
+      allow read;
+      
+      match /MyMessages/{userId} {
+      allow read;
+    }
+    }
+     match /Notifications/{userId} {
+      allow read;
+      
+      match /MyNotifications/{userId} {
+      allow read;
+      }
+    match /OldNotifications/{userId} {
+      allow read;
+    
+    }
+    }
+    match /Tags/{userId} {
+      allow read;
+    }
+    match /TagAccess/{userId} {
+      allow read;
+    }
+     match /TagInvitations/{userId} {
+      allow read;
+
+      match /Invites/{userId} {
+      allow read;
+    }
+    }
+     match /MyTags/{userId} {
+      allow read;
+       match /Invites/{userId} {
+      allow read;
+    }
+    }
+       match /MyTagsAccess/{userId} {
+      allow read;
+    }
+       match /PromoPasswords/{userId}{
+      allow read;
+    }
+     match /Reports/{userId} {
+      allow read;
+      match /Posts/{userId} {
+      allow read;
+       match /Users/{userId} {
+      allow read;
+      }
+     }
+  }
+   match /FeatureRequests/{userId} {
+      allow read;
+       match /Requests/{userId} {
+      allow read;
+    }
+    }
+      match /SavedPosts/{userId} {
+      allow read;
+       match /Posts/{userId} {
+      allow read;
+    }
+    }
+     match /ReportedUsers/{userId} {
+      allow read;
+      match /Reports/{userId} {
+      allow read;
+       match /MyReports/{userId} {
+      allow read;
+      }
+     }
+  }
+   match /Silence/{userId} {
+      allow read;
+      match /MySilenced/{userId} {
+      allow read;
+      }
+       match /TotalSilenced/{userId} {
+      allow read;
+      }
+  }
+     match /UserDetail/{userId} {
+      allow read;
+    }
+    match /CommentSubscription/{userId} {
+      allow read;
+    }
+    match /ReadPost/{userId} {
+      allow read;
+      match /ReadPostIDs/{userId} {
+      allow read;
+    }
+    }
+      match /MyEvents/{userId} {
+      allow read;
+      match /Events/{userId} {
+      allow read;
+    }
+      match /HostedEvents/{userId} {
+      allow read;
+    }
+    }
+      match /AllEvents/{userId} {
+      allow read;
+      match /InvitedUsers/{userId} {
+      allow read;
+    }
+      match /AttendingUsers/{userId} {
+      allow read;
+    }
+      match /NotAttendingUsers/{userId} {
+      allow read;
+    }
+     match /Hosts/{userId} {
+      allow read;
+    }
+      match /RequestToJoin/{userId} {
+      allow read;
+    }
+      match /EventConversation/{userId} {
+      allow read;
+        match /Messages/{userId} {
+      allow read;
+         match /Likes/{userId} {
+      allow read;
+    }
+    }
+    }
+    }
+     match /EventInvitations/{userId} {
+      allow read;
+      match /AttendingEvents/{userId} {
+      allow read;
+    }
+      match /InvitedEvents/{userId} {
+      allow read;
+    }
+     match /NotAttendingEvents/{userId} {
+      allow read;
+    }
+    }
+match /Badge/{userId} {
+      allow read;
+    }
+    match /RemovedSuggestedFriends/{userId} {
+      allow read;
+    }
+}
+}

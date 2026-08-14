@@ -1,0 +1,989 @@
+[        {
+            "id": "0",
+            "school": "N/A"
+        },
+        {
+            "id": "1",
+            "school": "Academy of Learning College"
+        },
+        {
+            "id": "2",
+            "school": "Acadia University"
+        },
+        {
+            "id": "3",
+            "school": "Algoma University"
+        },
+        {
+            "id": "4",
+            "school": "Algonquin College"
+        },
+        {
+            "id": "5",
+            "school": "Ashton College"
+        },
+        {
+            "id": "6",
+            "school": "Assiniboine Community College"
+        },
+        {
+            "id": "7",
+            "school": "Athabasca University"
+        },
+        {
+            "id": "8",
+            "school": "Augustana University College"
+        },
+        {
+            "id": "9",
+            "school": "Aurora College"
+        },
+        {
+            "id": "10",
+            "school": "Bethany College"
+        },
+        {
+            "id": "11",
+            "school": "Bishop’s University"
+        },
+        {
+            "id": "12",
+            "school": "Brandon University"
+        },
+        {
+            "id": "13",
+            "school": "Brescia University College"
+        },
+        {
+            "id": "14",
+            "school": "Briercrest College and Seminary"
+        },
+        {
+            "id": "15",
+            "school": "Brighton College"
+        },
+        {
+            "id": "16",
+            "school": "British Columbia Institute of Technology"
+        },
+        {
+            "id": "17",
+            "school": "Brock University"
+        },
+        {
+            "id": "18",
+            "school": "Cambrian College of Applied Arts and Technology"
+        },
+        {
+            "id": "19",
+            "school": "Camosun College"
+        },
+        {
+            "id": "20",
+            "school": "Canadian Coast Guard College"
+        },
+        {
+            "id": "21",
+            "school": "Canadian College"
+        },
+        {
+            "id": "22",
+            "school": "Canadian Mennonite University"
+        },
+        {
+            "id": "23",
+            "school": "Canadore College of Applied Arts and Technology"
+        },
+        {
+            "id": "24",
+            "school": "Cape Breton University"
+        },
+        {
+            "id": "25",
+            "school": "Capilano University"
+        },
+        {
+            "id": "26",
+            "school": "Carleton University"
+        },
+        {
+            "id": "27",
+            "school": "Carlton Trail Regional College"
+        },
+        {
+            "id": "28",
+            "school": "Cégep Beauce-Appalaches"
+        },
+        {
+            "id": "29",
+            "school": "Cégep de Baie-Comeau"
+        },
+        {
+            "id": "30",
+            "school": "Cégep de Chicoutimi"
+        },
+        {
+            "id": "31",
+            "school": "Cégep de Drummondville"
+        },
+        {
+            "id": "32",
+            "school": "Cégep de Granby-Haute-Yamaska"
+        },
+        {
+            "id": "33",
+            "school": "Cégep de Jonquière"
+        },
+        {
+            "id": "34",
+            "school": "Cégep de l’Abitibi-Témiscamingue"
+        },
+        {
+            "id": "35",
+            "school": "Cégep de l’Outaouais"
+        },
+        {
+            "id": "36",
+            "school": "Cégep de la Gaspésie et des Îles"
+        },
+        {
+            "id": "37",
+            "school": "Cégep de La Pocatière"
+        },
+        {
+            "id": "38",
+            "school": "Cégep de Lévis-Lauzon"
+        },
+        {
+            "id": "39",
+            "school": "Cégep de Matane"
+        },
+        {
+            "id": "40",
+            "school": "Cégep de Rimouski"
+        },
+        {
+            "id": "41",
+            "school": "Cégep de Saint-Félicien"
+        },
+        {
+            "id": "42",
+            "school": "Cégep de Saint-Hyacinthe"
+        },
+        {
+            "id": "43",
+            "school": "Cégep de Saint-Jean-sur-Richelieu"
+        },
+        {
+            "id": "44",
+            "school": "Cégep de Saint-Jérôme"
+        },
+        {
+            "id": "45",
+            "school": "Cégep de Saint-Laurent"
+        },
+        {
+            "id": "46",
+            "school": "Cégep de Sainte-Foy"
+        },
+        {
+            "id": "47",
+            "school": "Cégep de Sept-Îles"
+        },
+        {
+            "id": "48",
+            "school": "Cégep de Sherbrooke"
+        },
+        {
+            "id": "49",
+            "school": "Cégep de Sorel-Tracy"
+        },
+        {
+            "id": "50",
+            "school": "Cégep de Thetford"
+        },
+        {
+            "id": "51",
+            "school": "Cégep de Trois-Rivières"
+        },
+        {
+            "id": "52",
+            "school": "Cégep de Victoriaville"
+        },
+        {
+            "id": "53",
+            "school": "Cégep du Vieux Montréal"
+        },
+        {
+            "id": "54",
+            "school": "Cégep Édouard-Montpetit"
+        },
+        {
+            "id": "55",
+            "school": "Cégep Limoilou"
+        },
+        {
+            "id": "56",
+            "school": "Cégep Marie-Victorin"
+        },
+        {
+            "id": "57",
+            "school": "Cégep régional de Lanaudière"
+        },
+        {
+            "id": "58",
+            "school": "Centennial College of Applied Arts and Technology"
+        },
+        {
+            "id": "59",
+            "school": "Centre for Nursing Studies"
+        },
+        {
+            "id": "60",
+            "school": "Champlain Regional College"
+        },
+        {
+            "id": "61",
+            "school": "Collège Acadie Î.-P.-É."
+        },
+        {
+            "id": "62",
+            "school": "Collège Ahuntsic"
+        },
+        {
+            "id": "63",
+            "school": "Collège André-Laurendeau"
+        },
+        {
+            "id": "64",
+            "school": "Collège Bart"
+        },
+        {
+            "id": "65",
+            "school": "Collège Boréal"
+        },
+        {
+            "id": "66",
+            "school": "Collège de Bois-de-Boulogne"
+        },
+        {
+            "id": "67",
+            "school": "Collège de Maisonneuve"
+        },
+        {
+            "id": "68",
+            "school": "Collège de Rosemont"
+        },
+        {
+            "id": "69",
+            "school": "Collège de Valleyfield"
+        },
+        {
+            "id": "70",
+            "school": "Collège Éducacentre"
+        },
+        {
+            "id": "71",
+            "school": "Collège François-Xavier-Garneau"
+        },
+        {
+            "id": "72",
+            "school": "Collège Gérald-Godin"
+        },
+        {
+            "id": "73",
+            "school": "Collège International Marie de France"
+        },
+        {
+            "id": "74",
+            "school": "Collège Jean-de-Brébeuf"
+        },
+        {
+            "id": "75",
+            "school": "Collège Laflèche"
+        },
+        {
+            "id": "76",
+            "school": "Collège Lionel-Groulx"
+        },
+        {
+            "id": "77",
+            "school": "College Mathieu"
+        },
+        {
+            "id": "78",
+            "school": "Collège Mérici"
+        },
+        {
+            "id": "79",
+            "school": "Collège Montmorency"
+        },
+        {
+            "id": "80",
+            "school": "Collège O’Sullivan de Québec"
+        },
+        {
+            "id": "81",
+            "school": "College of the New Caledonia"
+        },
+        {
+            "id": "82",
+            "school": "College of the North Atlantic"
+        },
+        {
+            "id": "83",
+            "school": "College of the Rockies"
+        },
+        {
+            "id": "84",
+            "school": "Collège Shawinigan"
+        },
+        {
+            "id": "85",
+            "school": "Collège Stanislas"
+        },
+        {
+            "id": "86",
+            "school": "Columbia College"
+        },
+        {
+            "id": "87",
+            "school": "Concordia University"
+        },
+        {
+            "id": "88",
+            "school": "Concordia University College of Alberta"
+        },
+        {
+            "id": "89",
+            "school": "Conestoga College Institute of Technology and Advanced Learning"
+        },
+        {
+            "id": "90",
+            "school": "Confederation College of Applied Arts and Technology"
+        },
+        {
+            "id": "91",
+            "school": "Cumberland College"
+        },
+        {
+            "id": "92",
+            "school": "Dalhousie University"
+        },
+        {
+            "id": "93",
+            "school": "Dawson College"
+        },
+        {
+            "id": "94",
+            "school": "Dominican University College"
+        },
+        {
+            "id": "95",
+            "school": "Douglas College"
+        },
+        {
+            "id": "96",
+            "school": "Durham College"
+        },
+        {
+            "id": "97",
+            "school": "École de musique Vincent d’Indy"
+        },
+        {
+            "id": "98",
+            "school": "École de technologie supérieur"
+        },
+        {
+            "id": "99",
+            "school": "École nationale d’administration publique"
+        },
+        {
+            "id": "100",
+            "school": "École Polytechnique de Montréal"
+        },
+        {
+            "id": "101",
+            "school": "École technique et professionnelle, Université de Saint-Boniface"
+        },
+        {
+            "id": "102",
+            "school": "Eston College"
+        },
+        {
+            "id": "103",
+            "school": "Eton College"
+        },
+        {
+            "id": "104",
+            "school": "Fanshawe College of Applied Arts and Technology"
+        },
+        {
+            "id": "105",
+            "school": "First Nations University of Canada"
+        },
+        {
+            "id": "106",
+            "school": "Fleming College"
+        },
+        {
+            "id": "107",
+            "school": "Gaelic College"
+        },
+        {
+            "id": "108",
+            "school": "George Brown College"
+        },
+        {
+            "id": "109",
+            "school": "Georgian College of Applied Arts and Technology"
+        },
+        {
+            "id": "110",
+            "school": "Great Plains College"
+        },
+        {
+            "id": "111",
+            "school": "HEC Montréal"
+        },
+        {
+            "id": "112",
+            "school": "Heritage College"
+        },
+        {
+            "id": "113",
+            "school": "Holland College"
+        },
+        {
+            "id": "114",
+            "school": "Horizon College and Seminary"
+        },
+        {
+            "id": "115",
+            "school": "Humber College Institute of Technology & Advanced Learning University of Guelph, Kemptville Campus"
+        },
+        {
+            "id": "116",
+            "school": "Huron University College"
+        },
+        {
+            "id": "117",
+            "school": "Institut national de la recherche scientifique"
+        },
+        {
+            "id": "118",
+            "school": "John Abbott College"
+        },
+        {
+            "id": "119",
+            "school": "Justice Institute of British Columbia"
+        },
+        {
+            "id": "120",
+            "school": "King’s University College at Western University"
+        },
+        {
+            "id": "121",
+            "school": "Kingston Bible College"
+        },
+        {
+            "id": "122",
+            "school": "Kwantlen Polytechnic University"
+        },
+        {
+            "id": "123",
+            "school": "La Cité collégiale"
+        },
+        {
+            "id": "124",
+            "school": "Lakehead University"
+        },
+        {
+            "id": "125",
+            "school": "Lambton College of Applied Arts and Technology"
+        },
+        {
+            "id": "126",
+            "school": "Langara College"
+        },
+        {
+            "id": "127",
+            "school": "LaSalle College"
+        },
+        {
+            "id": "128",
+            "school": "Laurentian University"
+        },
+        {
+            "id": "129",
+            "school": "Loyalist College of Applied Arts and Technology"
+        },
+        {
+            "id": "130",
+            "school": "MacEwan University"
+        },
+        {
+            "id": "131",
+            "school": "Manitoba Institute of Trades and Technology"
+        },
+        {
+            "id": "132",
+            "school": "Marianopolis College"
+        },
+        {
+            "id": "133",
+            "school": "Marine Institute"
+        },
+        {
+            "id": "134",
+            "school": "Maritime Christian College"
+        },
+        {
+            "id": "135",
+            "school": "Maritime College of Forest Technology"
+        },
+        {
+            "id": "136",
+            "school": "McGill University"
+        },
+        {
+            "id": "137",
+            "school": "McMaster University"
+        },
+        {
+            "id": "138",
+            "school": "Memorial University of Newfoundland"
+        },
+        {
+            "id": "139",
+            "school": "Mohawk College of Applied Arts and Technology"
+        },
+        {
+            "id": "140",
+            "school": "Mount Allison University"
+        },
+        {
+            "id": "141",
+            "school": "Mount Royal University"
+        },
+        {
+            "id": "142",
+            "school": "Mount Saint Vincent University"
+        },
+        {
+            "id": "143",
+            "school": "National Circus School"
+        },
+        {
+            "id": "144",
+            "school": "Native Education College"
+        },
+        {
+            "id": "145",
+            "school": "New Brunswick Bible Institute"
+        },
+        {
+            "id": "146",
+            "school": "New Brunswick College of Craft and Design"
+        },
+        {
+            "id": "147",
+            "school": "New Brunswick Community College"
+        },
+        {
+            "id": "148",
+            "school": "Niagara College"
+        },
+        {
+            "id": "149",
+            "school": "Nicola Valley Institute of Technology"
+        },
+        {
+            "id": "150",
+            "school": "Nipawin Bible College"
+        },
+        {
+            "id": "151",
+            "school": "Nipissing University"
+        },
+        {
+            "id": "152",
+            "school": "North Island College"
+        },
+        {
+            "id": "153",
+            "school": "North West Regional College"
+        },
+        {
+            "id": "154",
+            "school": "Northern College of Applied Arts and Technology"
+        },
+        {
+            "id": "155",
+            "school": "Northern Lights College"
+        },
+        {
+            "id": "156",
+            "school": "Northlands College"
+        },
+        {
+            "id": "157",
+            "school": "Northwest Community College"
+        },
+        {
+            "id": "158",
+            "school": "Nova Scotia Community College"
+        },
+        {
+            "id": "159",
+            "school": "NSCAD University"
+        },
+        {
+            "id": "160",
+            "school": "Nunavut Arctic College"
+        },
+        {
+            "id": "161",
+            "school": "O’Sullivan College of Montreal"
+        },
+        {
+            "id": "162",
+            "school": "OCAD University"
+        },
+        {
+            "id": "163",
+            "school": "Okanagan College"
+        },
+        {
+            "id": "164",
+            "school": "Okanagan College"
+        },
+        {
+            "id": "165",
+            "school": "Parkland College"
+        },
+        {
+            "id": "166",
+            "school": "Queen’s University"
+        },
+        {
+            "id": "167",
+            "school": "Red River College of Applied Arts, Science and Technology"
+        },
+        {
+            "id": "168",
+            "school": "Redeemer University College"
+        },
+        {
+            "id": "169",
+            "school": "Royal Military College of Canada"
+        },
+        {
+            "id": "170",
+            "school": "Royal Roads University"
+        },
+        {
+            "id": "171",
+            "school": "Ryerson University"
+        },
+        {
+            "id": "172",
+            "school": "Saint Mary’s University"
+        },
+        {
+            "id": "173",
+            "school": "Saint Paul University"
+        },
+        {
+            "id": "174",
+            "school": "Saskatchewan Indian Institute of Technologies"
+        },
+        {
+            "id": "175",
+            "school": "Saskatchewan Institute of Applied Sciences and Technology"
+        },
+        {
+            "id": "176",
+            "school": "Sault College of Applied Arts and Technology"
+        },
+        {
+            "id": "177",
+            "school": "Selkirk College"
+        },
+        {
+            "id": "178",
+            "school": "Séminaire de Sherbrooke"
+        },
+        {
+            "id": "179",
+            "school": "Seneca College of Applied Arts and Technology"
+        },
+        {
+            "id": "180",
+            "school": "Sheridan College Institute of Technology and Advanced Learning"
+        },
+        {
+            "id": "181",
+            "school": "Simon Fraser University"
+        },
+        {
+            "id": "182",
+            "school": "Southeast Regional College"
+        },
+        {
+            "id": "183",
+            "school": "Sprott Shaw College"
+        },
+        {
+            "id": "184",
+            "school": "St Peter’s College"
+        },
+        {
+            "id": "185",
+            "school": "St. Clair College of Applied Arts and Technology"
+        },
+        {
+            "id": "186",
+            "school": "St. Francis Xavier University"
+        },
+        {
+            "id": "187",
+            "school": "St. Jerome’s University"
+        },
+        {
+            "id": "188",
+            "school": "St. Lawrence College"
+        },
+        {
+            "id": "189",
+            "school": "St. Paul’s College"
+        },
+        {
+            "id": "190",
+            "school": "St. Thomas University"
+        },
+        {
+            "id": "191",
+            "school": "TÉLUQ"
+        },
+        {
+            "id": "192",
+            "school": "The King’s University College"
+        },
+        {
+            "id": "193",
+            "school": "The Michener Institute for Applied Health Sciences"
+        },
+        {
+            "id": "194",
+            "school": "Thompson River University"
+        },
+        {
+            "id": "195",
+            "school": "Trebas Institute"
+        },
+        {
+            "id": "196",
+            "school": "Trent University"
+        },
+        {
+            "id": "197",
+            "school": "Trinity Western University"
+        },
+        {
+            "id": "198",
+            "school": "Université de Guelph, Campus d’Alfred"
+        },
+        {
+            "id": "199",
+            "school": "Université de Laval"
+        },
+        {
+            "id": "200",
+            "school": "Université de Moncton"
+        },
+        {
+            "id": "201",
+            "school": "Université de Montréal"
+        },
+        {
+            "id": "202",
+            "school": "Université de Québec"
+        },
+        {
+            "id": "203",
+            "school": "Université de Saint-Boniface"
+        },
+        {
+            "id": "204",
+            "school": "Université de Sherbrooke"
+        },
+        {
+            "id": "205",
+            "school": "Université du Québec à Chicoutimi (UQAC)"
+        },
+        {
+            "id": "206",
+            "school": "Université du Québec à Montréal (UQAM)"
+        },
+        {
+            "id": "207",
+            "school": "Université du Québec à Rimouski (UQAR)"
+        },
+        {
+            "id": "208",
+            "school": "Université du Québec à Trois-Rivières (UQTR)"
+        },
+        {
+            "id": "209",
+            "school": "Université du Québec en Abitibi-Témiscamingue (UQAT)"
+        },
+        {
+            "id": "210",
+            "school": "Université du Québec en Outaouais"
+        },
+        {
+            "id": "211",
+            "school": "Université Sainte-Anne"
+        },
+        {
+            "id": "212",
+            "school": "University College of the North"
+        },
+        {
+            "id": "213",
+            "school": "University of Alberta"
+        },
+        {
+            "id": "214",
+            "school": "University of British Columbia"
+        },
+        {
+            "id": "215",
+            "school": "University of Calgary"
+        },
+        {
+            "id": "216",
+            "school": "University of Guelph"
+        },
+        {
+            "id": "217",
+            "school": "University of King’s College"
+        },
+        {
+            "id": "218",
+            "school": "University of Lethbridge"
+        },
+        {
+            "id": "219",
+            "school": "University of Manitoba"
+        },
+        {
+            "id": "220",
+            "school": "University of New Brunswick"
+        },
+        {
+            "id": "221",
+            "school": "University of Northern British Columbia"
+        },
+        {
+            "id": "222",
+            "school": "University of Ontario Institute of Technology"
+        },
+        {
+            "id": "223",
+            "school": "University of Ottawa"
+        },
+        {
+            "id": "224",
+            "school": "University of Prince Edward Island"
+        },
+        {
+            "id": "225",
+            "school": "University of Regina"
+        },
+        {
+            "id": "226",
+            "school": "University of Saskatchewan"
+        },
+        {
+            "id": "227",
+            "school": "University of St. Michael’s College"
+        },
+        {
+            "id": "228",
+            "school": "University of Sudbury"
+        },
+        {
+            "id": "229",
+            "school": "University of the Fraser Valley"
+        },
+        {
+            "id": "230",
+            "school": "University of Toronto"
+        },
+        {
+            "id": "231",
+            "school": "University of Trinity College"
+        },
+        {
+            "id": "232",
+            "school": "University of Victoria"
+        },
+        {
+            "id": "233",
+            "school": "University of Waterloo"
+        },
+        {
+            "id": "234",
+            "school": "University of Western Ontario"
+        },
+        {
+            "id": "235",
+            "school": "University of Windsor"
+        },
+        {
+            "id": "236",
+            "school": "University of Winnipeg"
+        },
+        {
+            "id": "237",
+            "school": "Vancouver Community College"
+        },
+        {
+            "id": "238",
+            "school": "Vancouver Institute of Media Arts"
+        },
+        {
+            "id": "239",
+            "school": "Vancouver Island University"
+        },
+        {
+            "id": "240",
+            "school": "Vanier College"
+        },
+        {
+            "id": "241",
+            "school": "Victoria University"
+        },
+        {
+            "id": "242",
+            "school": "Western Academy Broadcasting College"
+        },
+        {
+            "id": "243",
+            "school": "Wilfrid Laurier University"
+        },
+        {
+            "id": "244",
+            "school": "Winnipeg Technical College"
+        },
+        {
+            "id": "245",
+            "school": "York University"
+        },
+        {
+            "id": "246",
+            "school": "Yukon College"
+        }
+]
