@@ -38,7 +38,6 @@ flowchart LR
   B --> C[It lands on their Timeline]
   C --> D[A comment hoists it back to the top]
   D --> C
-  A --> E[You can also turn it into an Event]
 ```
 
 ## Features
